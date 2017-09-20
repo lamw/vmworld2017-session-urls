@@ -498,6 +498,8 @@ Total Sessions NOT posted: 18
 
 [STO3333BUS - Deliver Real Business Results Through IT Modernization](https://youtu.be/td1dmZFuLpc)
 
+[STO1540PU – vSAN Hardware Deep Dive Panel](https://youtu.be/bEQWkJG2_es)
+
 
 ## Transform Security (18)
 

@@ -2,8 +2,8 @@
 
 Here is a nice summary list of all VMworld US 2017 Breakout session with the respective video playback URLs. Enjoy!
 
-Total Sessions Posted: 259
-Total Sessions NOT posted: 18
+Total Sessions Posted: 452
+Total Sessions NOT posted: 25
 
 ## Application Transformation (47)
 
@@ -105,7 +105,6 @@ Total Sessions NOT posted: 18
 
 [CNA3430BU - Your Enterprise Cloud-Native App Platform: An Introduction to Pivotal Cloud Foundry](https://youtu.be/oi1E36jLQNE)
 
-
 ## Emerging Technologies and Trends (18)
 
 [FUT1643BU - An Introduction to Service Function Chaining for Network Function Virtualization](https://youtu.be/ca_Y7k3L_ic)
@@ -145,7 +144,6 @@ Total Sessions NOT posted: 18
 [FUT3056BU - VMware vSphere Scales on the Amazing Next-Generation Intel Xeon Architecture](https://youtu.be/oFeQ3ZiZ24Y)
 
 [FUT2020BU - Wringing Maximum Performance from vSphere for Extremely Demanding Workloads and Customers](https://youtu.be/9qw270nEtwk)
-
 
 ## Empowering the Digital Workspace (45)
 
@@ -247,8 +245,7 @@ Total Sessions NOT posted: 18
 
 [ADV1246BU - Your VDI Trifecta:  Instant clones, App Volumes, and UEM](https://youtu.be/JF-Qf-Ckk2A)
 
-
-## Integrate Public Clouds (50)
+## Integrate Public Clouds (58)
 
 [LHC2424BU - 200 to 40,000 VMs in 24 Months: Building Highly Scalable SDDC on Hybrid Cloud: Real-World Example](https://youtu.be/3xAmknO0EAY)
 
@@ -350,6 +347,21 @@ Total Sessions NOT posted: 18
 
 [LHC1748BU - VMware Cloud for AWS and the Art of Software-Defined Data Centers: API, CLI, and PowerShell](https://youtu.be/ADMi8vNyPvk)
 
+[LHC1755BU - VMware Cloud for AWS Storage and Availability: Keeping Your Bits Safe for Humanity](https://youtu.be/PorEV5AqRrA)
+
+[LHC3174BU - VMware Cloud on AWS: An Architectural and Operational Deep Dive](https://youtu.be/nQwchswYXYk)
+
+[LHC2384BU - VMware Cloud on AWS: A Technical Deep Dive](https://youtu.be/Fh8VvwHcDUA)
+
+[LHC3375BUS - VMware Cloud on AWS Hybrid Cloud Architectural Deep Dive: Networking and Storage Best Practices](https://youtu.be/Ysowrnb9E38)
+
+[LHC3175BU - VMware Cloud on AWS Partner Solutions Showcase](https://youtu.be/k0yyd3E6jlE)
+
+[LHC3371BUS - VMware Cloud on AWS ??? The Painless Path to Hybrid Cloud](https://youtu.be/-0ksTmrSez4)
+
+[MMC2256BU - Watching the Clouds: Challenges with Monitoring Hybrid Cloud Environments](https://youtu.be/TWmVHBGbD40)
+
+[LHC2651BUS - Work Load Mobility & Resiliency for the New VMware Cloud on AWS ](https://youtu.be/6-hQ2bqO1CM)
 
 ## Leading Digital Transformation (16)
 
@@ -395,8 +407,7 @@ Total Sessions NOT posted: 18
 
 [LDT1459BU - The Transformation of Data Center Networking and Security](https://youtu.be/2CSI5BXTs64)
 
-
-## Modernize the Data Center (47)
+## Modernize the Data Center (225)
 
 [MGT3307BUS - 101 of Automation & Orchestration - How do I develop a Successful A&O program in my Company?](https://youtu.be/zImfaOipIRY)
 
@@ -498,6 +509,375 @@ Total Sessions NOT posted: 18
 
 [STO3333BUS - Deliver Real Business Results Through IT Modernization](https://youtu.be/td1dmZFuLpc)
 
+[STO3192BU - Deploying Big Data on HCI Powered by vSAN](https://youtu.be/3dgw2bEoPrI)
+
+[NET1350BUR - Deploying NSX on a Cisco Infrastructure](https://youtu.be/CXaJxm4Qg4M)
+
+[STO3190BU - Deploying vSAN with VMware Private Cloud]() [NO VIDEO POSTED]
+
+[NET2405BU - Designing an NSX Topology to Support Large-Scale Infrastructure-as-a-Service in VMware IT ]() [NO VIDEO POSTED]
+
+[PBO2602BU - Developing a Strategy for Private Cloud Success: Operationalizing the SDDC ](https://youtu.be/aSxDMBQ5Msw)
+
+[NET1188BU - Disaster Recovery Solutions with NSX](https://youtu.be/X4NPQFWAbHQ)
+
+[NET1932BU - Distributed Networking and Security Services: Deep Dive](https://youtu.be/NDXY_-Grmyw)
+
+[SER1815BU - DRS Labs: What's New and What Is Being Cooked Up in Resource Management Land](https://youtu.be/xyLNlX-IP58)
+
+[PBO3119BU - Easy Buy Optimizes Private Cloud Service Delivery](https://youtu.be/daWd6xQjwyM)
+
+[MGT1758BU - Effectively Operating an Automated Cloud](https://youtu.be/Qd8b0Pni01I)
+
+[NET1783BU - Enabling the Software-Defined ROBO with VMware NSX](https://youtu.be/WG7vsYBj-ck)
+
+[SER1494BU - Encrypted vMotion in vSphere 6.5: Architecture, Performance, and Futures](https://youtu.be/gQlBxdQuMcE)
+
+[STO3068BU - Enterprise-Grade Data Protection for VMware vSAN with EMC Recoverpoint for VMs](https://youtu.be/bErQNncYaio)
+
+[PBO2073BU - Enterprise Protection and Reliability for VMware Cloud Foundation with Cohesity ](https://youtu.be/tE1wa_mUhwY)
+
+[NET2896BU - Expanding Protection Across the Software Defined Data Center with Encryption](https://youtu.be/2GWx8ss0En0)
+
+[SER2723BUR - Extreme Performance Series: Benchmarking 101](https://youtu.be/yrGlms-EdDs)
+
+[SER2734BU - Extreme Performance Series: Byte-Addressable Nonvolatile Memory in vSphere](https://youtu.be/Sg2sJFVDS6Y)
+
+[SER2724BU - Extreme Performance Series: Performance Best Practices](https://youtu.be/EYggYAwjz3g)
+
+[SER2849BU - Extreme Performance Series: Predictive DRS???Performance and Best Practices](https://youtu.be/7RRglmaAFd4)
+
+[STO1515BU - Extreme Performance Series: vSAN Performance Troubleshooting](https://youtu.be/dA-CDmcmoZI)
+
+[SER2343BU - Extreme Performance Series: vSphere Compute & Memory Schedulers](https://youtu.be/iUiltEbh4Sw)
+
+[NET2810BU - Feel the vRealize Network Insight: Overcoming Operational Challenges with NSX and Underlay Networking](https://youtu.be/fuqOjE6G4K0)
+
+[PBO1811BU - From Zero to Six Data Centers in Days ??? Achieving Worldwide Rapid Time to Market with Cloud Foundation on the IBM Cloud ](https://youtu.be/fhxnkDf3PMA)
+
+[MGT1799BU - Full-Stack Automation: Streamlining, Delivering, and Managing App-Centric IT](https://youtu.be/PlP-zI6F3ic)
+
+[SER3323BUS - GPUs Everywhere: NVIDIA GRID is the Key to Your Organization???s Ideal Digital Workspace](https://youtu.be/jAgoQF_LTV4)
+
+[SER1392BU - Honey, Where Are My Keys? Understanding and Avoiding Common Issues with Virtual Machine Encryption](https://youtu.be/I5gR_dVqfz0)
+
+[SER1166BU - Housekeeping Strategies for Platform Services Controller???Expert Talk](https://youtu.be/4MSZuRqUWpY)
+
+[PBO2838BU - How and Why You Should Develop the Discipline and Practice of Defining Cloud Services](https://youtu.be/5RXysefI5-s)
+
+[PBO1507BU - How Customers Are Leveraging VMware Cloud Foundation to Achieve Their Business Imperatives]() [NO VIDEO POSTED]
+
+[MGT3315BUS - How Orchestration Can Actually Save Your Marriage](https://youtu.be/3P44vJpymHM)
+
+[PBO1649BU - How to Operationalize Your Software-Defined Data Center in 90 Days: The Proven Approach to IT Transformation](https://youtu.be/tCSB-hj9gHk)
+
+[SER1533BU - How to Prepare for VMware Certified Professional 6 ??? Data Center Virtualization](https://youtu.be/kx576fF6jfM)
+
+[PBO1182BU - How to Reduce Manual Labor with Automation in IT Operations Using VMware Solutions](https://youtu.be/JrH35Ab2PcM)
+
+[SER2068BU - How to Upgrade to vSphere 6.5 with Zero Downtime ]() [NO VIDEO POSTED]
+
+[SER3052BU - How VMware vSphere and NVIDIA GPUs Accelerate Your Organization ](https://youtu.be/xOT79Z8COgY)
+
+[SER2617BU - How vSphere with Operations Management Made Our Environment Run Lean and Mean](https://youtu.be/MmBbLYTk5Pc)
+
+[STO3320BUS - Hyperconverged Infrastructure](https://youtu.be/fYpJVpgkevc)
+
+[PBO2872BU - Hyper-Converged Infrastructure Alone Does Not Constitute a Private Cloud](https://youtu.be/r-XEGkgifO0)
+
+[PBO2541BU - IBM Cloud: Delivering Key Value Services Using VMware Cloud Foundation](https://youtu.be/vMx4971s950)
+
+[PBO3325BUS - Implement a Container Orchestration Platform](https://youtu.be/K6bvCTveOsY)
+
+[PBO3311BUS - Implementing Advanced vSphere Features with Veeam Availability Suite](https://youtu.be/nFRt9xuQMaE)
+
+[NET1853BU - Infrastructure-as-a-Service and Day 2 Automation of NSX for vSphere using vRealize Orchestrator and vRealize Automation](https://youtu.be/S2D9F5kcAfc)
+
+[PBO1437BU - Infrastructure Automation in VMware Cloud Foundation Using vRealize Automation](https://youtu.be/amoCH-HfclY)
+
+[SER2273BU - Instant Clone 2.0	](https://youtu.be/luvUvmlB404)
+
+[NET1523BU - Integrating NSX and Cloud Foundry](https://youtu.be/84PnYuNlQYg)
+
+[NET3389BUS - Integrating Threat Defense Lifecycle Security Services with VMware NSX](https://youtu.be/j9DSZEsWV34)
+
+[NET2375BU - Intelligent Operations for SDDC Network and Security with vRealize Network Insight](https://youtu.be/DTinj0EReCk)
+
+[MGT1217BU - Intelligent Operations Management from Infra to Applications and Across the Software-Defined Data Center](https://youtu.be/Dfqf627Skww)
+
+[STO1206BU - Interpreting Performance Metrics in Your vSAN Environment](https://youtu.be/edxoPal_wRA)
+
+[NET3420BU - Introducing VMware???s Transformative Data Center Endpoint Security Solution](https://youtu.be/bPyNzP7Gqig)
+
+[STO3318BUS - Introduction to Hyper-Converged Infrastructure (HCI) and why VMware vSAN adoption rate is so high?](https://youtu.be/i-ffhEwNtVQ)
+
+[NET1510BU - Introduction to NSX-T Architecture](https://youtu.be/kj5COK2qUJU)
+
+[NET1152BU - Introduction to VMware NSX](https://youtu.be/j0GUOODkCr8)
+
+[NET1300BU - Introduction to VMware NSX for Application Continuity](https://youtu.be/Xt7nPrhPWi8)
+
+[NET1305BU - Introduction to VMware NSX for Automation](https://youtu.be/sc4R8bC4jAE)
+
+[MGT1999BU - It's the Apps: Fully Loaded Application Monitoring with vRealize Operations](https://youtu.be/vvoBtYd4jUg)
+
+[SER2790BU - Journey to a vSphere HTML Client Ecosystem: Deep Dive with Big Switch Networks](https://youtu.be/rhhHp5OYI4Q)
+
+[STO1885BU - Key vSAN Use Cases with Customer Case Studies](https://youtu.be/s5tuSzhNVaM)
+
+[NET1522BU - Kubernetes Networking with NSX-T Deep Dive](https://youtu.be/UfAYcK19oZ0)
+
+[NET2866BU - Learn from challenging but successful NSX Deployment Journey with VMware SDDC at large Pharmaceutical Company.  ](https://youtu.be/B3EhmzR6Ftc)
+
+[MGT2875BU - Manage, Govern, and Extend VMware Cloud on AWS with vRealize Automation](https://youtu.be/a89TFL49XIg)
+
+[SER1086BU - Manage Health, Performance, and Capacity in Your Data Center Using vSphere with Operations Management](https://youtu.be/n-99CxTbVEY)
+
+[SER1957BU - Mastering the VMware Tools Lifecycle in Your vSphere Data Center](https://youtu.be/R-z3znqhe7E)
+
+[SER2283BU - Migrate to Cloud Securely While Optimizing Copy Data: vMotion Has You Covered!	](https://youtu.be/a3CL06fjuWE)
+
+[SER2958BU - Migrate to the vCenter Server Appliance You Should](https://youtu.be/q_75UkOsUYk)
+
+[SER3084BU - Mind Your Foundation: Extending the Power of the vSphere Platform](https://youtu.be/Y08l4GiGKt0)
+
+[STO1964BU - Modern Data Center Transformation: Dell IT Case Study](https://youtu.be/_SlawGwZU4A)
+
+[SER3152BU - Modernizing Applications with Containers on vSphere](https://youtu.be/Tcd1LU0Dgmo)
+
+[STO1742BU - Modernizing IT with Server-Centric Architecture Powered by VMware vSAN and VxRail Hyper-Converged Infrastructure Appliance](https://youtu.be/knxKqB10GV4)
+
+[STO3360BUS - More Time to Recline: How La-Z-Boy Relaxed the Complexity of VMware Storage Management and Saved Money in the Process](https://youtu.be/VCVtpPbVBMY)
+
+[PBO1480BU - Moving into Your New Software-Defined Data Center! Migrating and Integrating Workloads](https://youtu.be/oJHoiLdAvNA)
+
+[NET1191BU - Multisite Networking and Security with Cross-VC NSX: Part 2](https://youtu.be/h_RP3YBvqyI)
+
+[NET1190BU - Multisite Networking and Security with Cross-VC NSX: Part 1](https://youtu.be/P8wWAG5w7Hs)
+
+[STO3308BUS - NetApp HCI, Simplicity AND Enterprise Scale](https://youtu.be/OD_kkcWQVZ8)
+
+[SER1729BU - Networking for Virtual Environments: What???s New and What???s Next for VMware vSphere Networking](https://youtu.be/qROoGKbzjAM)
+
+[STO3099BU - Next-Generation Data Management with vSAN and HyTrust CloudAdvisor](https://youtu.be/WeHNfhPJlhA)
+
+[NET1536BU - NSX Design???Reference Design for SDDC with NSX and vSphere: Part 2](https://youtu.be/Kq7ZKOGtcLs)
+
+[NET1535BU - NSX Design???Reference Design for SDDC with NSX and vSphere: Part 1](https://youtu.be/xfkMcUvebY4)
+
+[NET3283BU - NSX Features Deep Dive](https://youtu.be/kTD4LnmkBt4)
+
+[NET1345BU - NSX in Small Data Centers for Small and Medium Businesses](https://youtu.be/a6SssLRIRNo)
+
+[NET1416BU - NSX Logical Routing ](https://youtu.be/4CP47UCT-is)
+
+[NET1343BU - NSX Performance Deep Dive](https://youtu.be/_icR_L5PcYs)
+
+[NET2532BU - NSX PowerOps: Day Two Operations, Environment Health, Security, and Documentations Under Control](https://youtu.be/b-t7XQMfams)
+
+[NET2356BU - NSX Service Insertion: Platform for Advanced Networking and Security Services](https://youtu.be/_Ead5bhbTkQ)
+
+[NET1863BU - NSX-T Advanced Architecture Concepts](https://youtu.be/AYQQYeYaqZs)
+
+[SER2413BU - NVMe: What Is It? An Interface? A Protocol? A New Drive Technology? An Industry Revolution?](https://youtu.be/ifcXCFLoUeI)
+
+[MGT2855BU - Operationalize Your World: Moving Your Operations Closer to Your Architectures](https://youtu.be/ZVRvLvI9shA)
+
+[STO1895BU - Optimizing vSAN with vRealize Operations](https://youtu.be/reFO-StMBUg)
+
+[STO1167BU - Oracle on HCI Steroids: A Complete End-to-End Solution for Business-Critical Oracle Workloads on VMware vSAN](https://youtu.be/ogXP6oDd33k)
+
+[NET1537BU - OVS Architecture: A Flexible Architecture for Private, Container, and Public Cloud Connectivity](https://youtu.be/8Mmw0g-q9y4)
+
+[SER2614BU - PowerCLI 201: Getting More Out of vSphere PowerCLI](https://youtu.be/1ZPB7YMuyqo)
+
+[NET2119BU - PowerNSX - Bringing the power of PowerCLI to VMware NSX for vSphere](https://youtu.be/Vnn4hfXiMhw)
+
+[NET1405BU - Power of NSX - Network Virtualization for Elastic Apps and Data Centers](https://youtu.be/lnTmUqzUxF0)
+
+[STO3194BU - Protecting Virtual Machines in VMware Cloud on AWS](https://youtu.be/AHSedv3bW14)
+
+[STO2705BU - Redefine vSAN Deployments with Next Generation Intel?? Xeon?? processor, Intel?? Optane??? and Intel?? 3D NAND SSDs ](https://youtu.be/sPTtCBrdxj8)
+
+[SER1740BU - Remote Direct Memory Access: A World of Possibilities](https://youtu.be/rU2KigAgR6o)
+
+[STO3305BUS - Replicating VMware VVols: A technical deep dive into VVol array based replication in vSphere 6.5](https://youtu.be/1jjgUwv4J9E)
+
+[STO3385BUS - Revolutionizing VM Availability with the Easiest Data Protection Solution You???ve Ever Seen](https://youtu.be/a0_W8gWZl9g)
+
+[MGT1733BU - Scaling and Extending vRops for the Enterprise](https://youtu.be/nPBDheSKZ3w)
+
+[NET1949BU - Seamless Network Connectivity for Virtual and Bare-metal Workloads with NSX](https://youtu.be/B8qTiamiypo)
+
+[SER1361BU - Security Operations for VMware vSphere with VMware vRealize Log Insight](https://youtu.be/gPkJPaolUb0)
+
+[NET1728BU - Shutterfly: Life with VMware NSX???Year 3](https://youtu.be/lI3fMLVpXD4)
+
+[PBO3350BUS - Snapshots and SQL Server- Technical Deep Dive & Detailed Lab Findings](https://youtu.be/iZHMOkO0b3k)
+
+[MGT2231BU - Sneak Peak into VMware???s vRealize based Self Healing DevOps Pipelines](https://youtu.be/GZyW_KCQf4c)
+
+[MGT3454BUS - Software Defined Data Center in your Journey to Cloud](https://youtu.be/cqREOEPKwUU)
+
+[PBO1627BU - Software Super Convergence and Demo: How VMware Products Work Together to Deliver Business Solutions](https://youtu.be/qyQqvouBVrE)
+
+[PBO3334BUS - State of the Union: Everything multi-cloud, converged, hyper-converged and more!](https://youtu.be/H9hBLBC55eU)
+
+[SER2337BUR - Storage (iSCSI, NFS, Fibre Channel) Tips and Tricks, Troubleshooting, and Performance Best Practices for VMware vSphere ESXi](https://youtu.be/rhmLjxk0ewU)
+
+[SER1317BU - Storage Virtualization: What???s New and What???s Next for vSphere Storage](https://youtu.be/Ktw9vkSE4Dg)
+
+[STO1994BU - Successful vSAN for Remote Offices and Branch Offices](https://youtu.be/8QFb5hRJox8)
+
+[STO1118BU - Successful vSAN Stretched Clusters](https://youtu.be/3DSi2xecVCQ)
+
+[MGT1761BU - Swisscom Modernizes Its Cloud for Enterprises with VMware](https://youtu.be/_TchVH5q1kQ)
+
+[SER1963BU - Technical Overview of VMware ESXi Host Lifecycle Management with Update Manager, Auto Deploy, and Host Profiles](https://youtu.be/qu_nfrM5vhc)
+
+[STO1770BU - Technical Preview of Integrated Data Protection for vSAN: A Native, Scalable Solution to Safeguard Data on vSAN](https://youtu.be/ItSaxJht788)
+
+[STO1498BU - Tech Preview: Disaster Recovery with VMware Cloud on AWS](https://youtu.be/DOEsobkEhtM)
+
+[STO1794BU - The Evolution of VMware vSAN and Hyper-Converged Infrastructure](https://youtu.be/ncm4Rcto_98)
+
+[NET1821BU - The Future of Networking and Security with NSX-T](https://youtu.be/8JFdaS5xL2k)
+
+[MGT2338BU - The Happy Nomadic VM: A vRealize Story](https://youtu.be/mUVgErXisZE)
+
+[NET3282BU - The NSX Practical Path](https://youtu.be/9sJ_vqjwSSc)
+
+[SER1875BU - The Power Hour: vSphere PowerCLI 10th Birthday Edition](https://youtu.be/Ek6FArKyMBc)
+
+[STO1216BU - The Software-Defined Storage Revolution Is Here: Discover Your Options](https://youtu.be/ZABsUnynAoM)
+
+[STO1264BU - The Top 10 Things to Know About vSAN](https://youtu.be/UpUDGVS3KlU)
+
+[SER2972BU - Troubleshooting 101 for vSphere 6.x](https://youtu.be/VUy1Cxk4Hdc)
+
+[NET1777BU - Troubleshooting Methodology for VMware NSX for vSphere](https://youtu.be/osMNV7K64ug)
+
+[STO2524BU - Turbocharge All Flash vSAN on Next Generation Hardware](https://youtu.be/ByTmRe4bxY4)
+
+[MGT2443BU - Tutorial: Reclaim Time Spent on Operations While Improving Quality and Efficiency; Hear from Rackspace and VMware OneCloud Team]() [NO VIDEO POSTED]
+
+[SER2905BU - Uncovering ESXTOP](https://youtu.be/OzH_6pSSlTY)
+
+[STO1179BU - Understanding the Availability Features of vSAN](https://youtu.be/a02KLGFHPXs)
+
+[SER2318BU - Upgrading to vSphere 6.5 the VCDX Way](https://youtu.be/Vzz2g8ThEqE)
+
+[MGT3343BUS - Using Automation to Validate Recoverable Backups with Rubrik](https://youtu.be/XXH_HZY1cCM)
+
+[NET2415BU - Utilizing NSX load balancing for scalability, reliability, and security: Overview, best practices, and customer case study](https://youtu.be/7ybV4Tjm5c4)
+
+[SER1504BU - vCenter Performance Deep Dive](https://youtu.be/eFM_ewwy2ys)
+
+[SER2980BU - vCenter Server 6.5 Deep Dive and Troubleshooting ](https://youtu.be/T6ZxlOVQGWw)
+
+[PBO3309BUS - Veeam Availability Suite v10: A Deeper Dive of What???s New](https://youtu.be/Xp9ClZXIGvM)
+
+[STO2446BU - Virtual Volumes Technical Deep Dive](https://youtu.be/kX0ia7SFhbw)
+
+[SER1906BU - VMware and Chef: Leveraging the vSphere API Together](https://youtu.be/pOdxS8hvs70)
+
+[PBO1222BUR - VMware Cloud Foundation Architecture Deep Dive](https://youtu.be/O7pSfX3g2h4)
+
+[PBO1677BU - VMware Cloud Foundation: Disaster Recovery Options](https://youtu.be/zl-Plc3Q1fU)
+
+[PBO2797BU - VMware Cloud Foundation Futures ](https://youtu.be/T8wGTnBGvT4)
+
+[PBO2695BU - VMware Cloud Foundation Operational Management](https://youtu.be/DWgoJD75K8o)
+
+[PBO2182BU - VMware Cloud Foundation: Real-World Deployment Experiences from Professional Services Engineering](https://youtu.be/BNmnfwE_jFE)
+
+[STO1890BU - VMware Cloud on AWS: Storage Deep Dive](https://youtu.be/suFrjMI5oKg)
+
+[NET1338BU - VMware Integrated OpenStack and NSX Integration Deep Dive](https://youtu.be/z92YNlzAlEo)
+
+[MGT2609BU - VMware Integrated OpenStack: What???s New](https://youtu.be/2caTDWgogOY)
+
+[SER1912BU - VMware Open-Source SDKs: From Getting Started to Web App in One Hour](https://youtu.be/k1u--w95I1k)
+
+[STO2408BU - VMware Site Recovery Manager: Technical Walkthrough](https://youtu.be/oBB0n0wLmbg)
+
+[PBO1295BU - VMware Validated Design for Remote/Branch Office Technical Overview](https://youtu.be/S4bu4LKUCFQ)
+
+[PBO1721BU - VMware Validated Design for SDDC Architecture Deep Dive](https://youtu.be/3BIwGNQwFIk)
+
+[STO2114BU - VMware vSAN: From 2 Nodes to 64 Nodes, Architecting and Operating vSAN Like a VCDX for Scalability and Simplicity](https://youtu.be/BbC1ik5EtlE)
+
+[SER2507BU - VMware vSphere v6.5: A Customer???s Perspective on Migration Strategies](https://youtu.be/ZqgQ6u0UIKk)
+
+[MGT1307BU - vRealize Automation and Puppet: Enabling DevOps-Ready IT](https://youtu.be/ULQaJvvufOI)
+
+[MGT2716BU - vRealize Automation for the Developer Cloud](https://youtu.be/GPxJUoAU4ek)
+
+[MGT1776BU - vRealize Automation Solves the Container Onboarding Conundrum](https://youtu.be/3Xnlc3daEH0)
+
+[MGT1568BU - vRealize Business for Cloud: Enabling IT Talk ???Business??? with Line of ???Business???!](https://youtu.be/RuD1C4prXMs)
+
+[MGT1599BU - vRealize Operations Capacity Explained]() [NO VIDEO POSTED]
+
+[STO1926BU - vSAN 6.6: A Day in the Life of an I/O](https://youtu.be/RaXABUxr3mk)
+
+[STO1479BU - vSAN Beyond the Basics](https://youtu.be/8hjDGqUPv-Q)
+
+[STO1378BU - vSAN Management Today and in the Future](https://youtu.be/-A6cZ7xXqTY)
+
+[STO1178BU - vSAN Operations and Management Recommendations and Best Practices](https://youtu.be/D-wDyS97DC4)
+
+[STO2095BU - vSAN ReadyNode and Build Your Own Hardware Guidance](https://youtu.be/uv4ogAlRe3w)
+
+[STO1968BU - vSAN Setup & Management the Easy Way!](https://youtu.be/kPk3-tEphOU)
+
+[STO2986BU - vSAN Technical Deep Dive](https://youtu.be/sNlk7jEuRnw)
+
+[STO1315BU - vSAN Troubleshooting Deep Dive](https://youtu.be/9ptAM8FE5d4)
+
+[SER1872BU - vSphere 6.5 Host Resources Deep Dive: Part 2](https://youtu.be/pjnoqCcplYQ)
+
+[SER2936BU - vSphere Certificate Management for Mere Mortals](https://youtu.be/SWG0rM2AQlY)
+
+[SER1411BU - vSphere Clients Roadmap: HTML5 Client, Host Client, and Web Client](https://youtu.be/m8H0kkM5svs)
+
+[NET1927BU - vSphere Distributed Switch Best Practices for NSX](https://youtu.be/S5TQXL954Wk)
+
+[STO1960BU - vSphere Encryption for Virtual Machines and vSAN Encryption Deep Dive](https://youtu.be/BvNX0dKr4r0)
+
+[SER2540BU - vSphere HA: Leverage Its Full Potential](https://youtu.be/4txJTkjjY5U)
+
+[SER1534BUR - vSphere Performance Troubleshooting and Root Cause Analysis](https://youtu.be/a_VyvjGeEcQ)
+
+[SER1848BU - vSphere Platform Security Update](https://youtu.be/P36HIPUS3VM)
+
+[SER2480BU - vSphere PowerCLI 101: Becoming Your Organization's Superhero](https://youtu.be/klfVZdJ7CYM)
+
+[SER2529BU - vSphere PowerCLI What???s New: The Next Evolutionary Leap Is Now](https://youtu.be/TMOU_qXtLlk)
+
+[STO2115BUR - vSphere Storage Best Practices](https://youtu.be/1DjfA_-TC74)
+
+[SER1289BU - vSphere Troubleshooting: Tips and Tricks](https://youtu.be/DmMidnvhM2w)
+
+[PBO3367BUS - vSphere Virtual Volumes made easy with Pure Storage](https://youtu.be/Mx1tDoQlSzA)
+
+[PBO1064BU - VxRack SDDC Deep Dive: Inside VxRack SDDC Powered by VMware Cloud Foundation](https://youtu.be/kcy1GhBOEec)
+
+[SER2779BU - What's New in vCenter](https://youtu.be/aNrJWmKAK7c)
+
+[STO3054BU - What???s New in VMware vSAN 6.6]() [NO VIDEO POSTED]
+
+[STO2047BU - What's New in vSAN 6.6: Technical Deep Dive](https://youtu.be/-W2pHgqQH0A)
+
+[STO3387BUS - What???s new with Cisco Hyperconverged Infrastructure](https://youtu.be/t6r2FyBr95E)
+
+[MGT1847BU - What's New with vRealize Automation 7.3](https://youtu.be/Bm2pMBSc1Ac)
+
+[SER2342BU - What's New with vSphere](https://youtu.be/ydvwYZC-O8s)
+
+[NET1089BU - When Clouds Collide, Lightning Strikes](https://youtu.be/vCmdcoG3NQ8)
+
+[MGT3392BUS - You???re running Kubernetes (or you want to)... Now how do you monitor it?](https://youtu.be/DvGCHLfNraI)
 
 ## Transform Security (18)
 

@@ -2,8 +2,8 @@
 
 Here is a nice summary list of all VMworld EU 2017 Breakout session with the respective video playback URLs. Enjoy!
 
-Total Sessions Posted: 178
-Total Sessions NOT posted: 19
+Total Sessions Posted: 272
+Total Sessions NOT posted: 30
 
 ## Application Transformation (23)
 
@@ -61,7 +61,6 @@ Total Sessions NOT posted: 19
 
 [CNA3045BE - What???s New with Containers on SDDC](https://youtu.be/FX4Yb-hrM1M)
 
-
 ## Emerging Technologies and Trends (11)
 
 [FUT1939BE - Artificial Intelligence at VMware: Using Advanced Analytics as a Digital Transformation Catalyst](https://youtu.be/9olIT0kokvY)
@@ -87,7 +86,6 @@ Total Sessions NOT posted: 19
 [FUT3056BE - VMware vSphere Scales on the Amazing Next-Generation Intel Xeon Architecture](https://youtu.be/SXEjRslWjcI)
 
 [FUT2020BE - Wringing Maximum Performance from vSphere for Extremely Demanding Workloads and Customers](https://youtu.be/EWxrnMaI570)
-
 
 ## Empowering the Digital Workspace (31)
 
@@ -155,7 +153,6 @@ Total Sessions NOT posted: 19
 
 [ADV1598BE - What's New with VMware Fusion, Workstation, and Horizon FLEX](https://youtu.be/X8acOOaGBXQ)
 
-
 ## Integrate Public Clouds (31)
 
 [LHC2424BE - 200 to 40,000 VMs in 24 Months: Building Highly Scalable SDDC on Hybrid Cloud: Real-World Example](https://youtu.be/nqAys4elEI4)
@@ -222,7 +219,6 @@ Total Sessions NOT posted: 19
 
 [LHC3371BES - VMware Cloud on AWS ??? The Painless Path to Hybrid Cloud](https://youtu.be/KYADkW33AQs)
 
-
 ## Leading Digital Transformation (7)
 
 [LDT2795BE - Building a Strategy to Deliver Smart City Solutions: A Telco Digital Transformation Story by du ](https://youtu.be/hccpPehI18M)
@@ -245,8 +241,7 @@ Total Sessions NOT posted: 19
 
 [LDT1499BE - Successfully Integrating the Public Cloud at the Australian Taxation Office](https://youtu.be/JkFdM4t_JGE)
 
-
-## Modernize the Data Center (42)
+## Modernize the Data Center (125)
 
 [PBO2631BE - A Base Design for Everyone???s Data Center: The Consolidated VMware Validated Design](https://youtu.be/1XBsUn3ZFUM)
 
@@ -348,6 +343,193 @@ Total Sessions NOT posted: 19
 
 [NET2375BE - Intelligent Operations for SDDC Network and Security with vRealize Network Insight](https://youtu.be/0KbO-hbBnVw)
 
+[NET1510BE - Introduction to NSX-T Architecture](https://youtu.be/O9jEvKcPX84)
+
+[NET3420BE - Introduction to VMware AppDefense](https://youtu.be/ZYDnahlCzKM)
+
+[NET1152BE - Introduction to VMware NSX](https://youtu.be/c4NpIZVISKo)
+
+[MGT1999BE - It's the Apps: Fully Loaded Application Monitoring with vRealize Operations](https://youtu.be/RHLPYo1PQ8A)
+
+[STO1885BE - Key vSAN Use Cases with Customer Case Studies](https://youtu.be/xTmuLUgQvzQ)
+
+[NET1522BE - Kubernetes Networking with NSX-T Deep Dive](https://youtu.be/48T9F17mja8)
+
+[NET2866BE - Learn from challenging but successful NSX Deployment Journey with VMware SDDC at large Pharmaceutical Company.  ](https://youtu.be/mdFw-mCKyJU)
+
+[MGT2875BE - Manage, Govern, and Extend VMware Cloud on AWS with vRealize Automation](https://youtu.be/xUredDQJZrQ)
+
+[SER1957BE - Mastering the VMware Tools Lifecycle in Your vSphere Data Center]() [NO VIDEO POSTED]
+
+[SER2283BE - Migrate to Cloud Securely While Optimizing Copy Data: vMotion Has You Covered!	](https://youtu.be/EPCmqKwiwrc)
+
+[SER2958BE - Migrate to the vCenter Server Appliance You Should](https://youtu.be/MagjfbIL4kg)
+
+[STO1742BE - Modernizing IT with Server-Centric Architecture Powered by VMware vSAN and VxRail Hyper-Converged Infrastructure Appliance](https://youtu.be/uIqtll96F14)
+
+[NET1192BE - Multisite Networking and Security with Cross-VC NSX ](https://youtu.be/r0pNTSR_XlU)
+
+[STO3308BES - NetApp HCI, Simplicity AND Enterprise Scale](https://youtu.be/rTuKznPPJAs)
+
+[SER1729BE - Networking for Virtual Environments: What???s New and What???s Next for VMware vSphere Networking](https://youtu.be/eDY4dp4ST-o)
+
+[NET1535BE - NSX Design???Reference Design for SDDC with NSX and vSphere: Part 1]() [NO VIDEO POSTED]
+
+[NET1536BE - NSX Design???Reference Design for SDDC with NSX and vSphere: Part 2]() [NO VIDEO POSTED]
+
+[NET3283BE - NSX Features Deep Dive](https://youtu.be/1LKuFQJGWf0)
+
+[NET1345BE - NSX in Small Data Centers for Small and Medium Businesses](https://youtu.be/G1VOlN9AUnM)
+
+[NET1416BE - NSX Logical Routing ](https://youtu.be/o_RzmWw8iJw)
+
+[NET1863BE - NSX-T Advanced Architecture Concepts](https://youtu.be/vrjDeDFX4Pw)
+
+[SER2413BE - NVMe: What Is It? An Interface? A Protocol? A New Drive Technology? An Industry Revolution?](https://youtu.be/eBBvO0Ko4Ek)
+
+[MGT2855BE - Operationalize Your World: Moving Your Operations Closer to Your Architectures]() [NO VIDEO POSTED]
+
+[SER2614BE - PowerCLI 201: Getting More Out of vSphere PowerCLI](https://youtu.be/aEu_RZyWH6s)
+
+[NET2119BE - PowerNSX - Bringing the power of PowerCLI to VMware NSX for vSphere](https://youtu.be/JdE0QRXWm1Y)
+
+[STO3194BE - Protecting Virtual Machines in VMware Cloud on AWS](https://youtu.be/gB4RDKBeKXw)
+
+[STO1053BES - Redefine vSAN Deployments with Next Generation Intel?? Xeon?? processor, Intel?? Optane??? and Intel?? 3D NAND SSDs ](https://youtu.be/VPKtoYLoVhk)
+
+[STO3305BES - Replicating VMware VVols: A technical deep dive into VVol array based replication in vSphere 6.5](https://youtu.be/iGMCmyP-5I8)
+
+[STO3385BES - Revolutionizing VM Availability with the Easiest Data Protection Solution You???ve Ever Seen](https://youtu.be/koHgYAJmGN0)
+
+[NET1047BES - Security Automation with VMware NSX and Network Function Virtualization (NFV)](https://youtu.be/QrqLAAe_MUE)
+
+[PBO1046BES - Simplifying the Journey to Software Defined Data Center with Lenovo ThinkSystem & ThinkAgile](https://youtu.be/EnPw2wFdK_k)
+
+[PBO3350BES - Snapshots and SQL Server- Technical Deep Dive & Detailed Lab Findings](https://youtu.be/3WVJtSTa4xc)
+
+[MGT3454BES - Software Defined Data Center in your Journey to Cloud](https://youtu.be/SW5P0gg1cTs)
+
+[STO1057BES - Solutions from Lenovo for Implementing a VMware based Software Defined Datacenter](https://youtu.be/nybRERroJx4)
+
+[PBO3334BES - State of the Union: Everything multi-cloud, converged, hyper-converged and more!](https://youtu.be/tRN0YRC_XNU)
+
+[STO1297BE - Stretched Cluster or VMware Site Recovery Manager? We Say Both](https://youtu.be/EWkiyBrKiFM)
+
+[STO1994BE - Successful vSAN for Remote Offices and Branch Offices](https://youtu.be/odmUPrw2Xdo)
+
+[SER1963BE - Technical Overview of VMware ESXi Host Lifecycle Management with Update Manager, Auto Deploy, and Host Profiles](https://youtu.be/JG3nmIJ8Gcs)
+
+[STO1770BE - Technical Preview of Integrated Data Protection for vSAN: A Native, Scalable Solution to Safeguard Data on vSAN](https://youtu.be/KKhf7W3ur2s)
+
+[STO1498BE - Tech Preview: Disaster Recovery with VMware Cloud on AWS](https://youtu.be/PcKf8QbDRqs)
+
+[STO1794BE - The Evolution of VMware vSAN and Hyper-Converged Infrastructure](https://youtu.be/0cWhOgjfkdk)
+
+[NET1821BE - The Future of Networking and Security with NSX-T](https://youtu.be/cGWExHdGUW0)
+
+[MGT2338BE - The Happy Nomadic VM: A vRealize Story](https://youtu.be/CNshVGCb9HI)
+
+[NET3282BE - The NSX Practical Path](https://youtu.be/0FojB5XSGxo)
+
+[SER1875BE - The Power Hour: vSphere PowerCLI 10th Birthday Edition]() [NO VIDEO POSTED]
+
+[STO1216BE - The Software-Defined Storage Revolution Is Here: Discover Your Options](https://youtu.be/iRT5cdF8Hbs)
+
+[STO1264BE - The Top 10 Things to Know About vSAN]() [NO VIDEO POSTED]
+
+[NET1777BE - Troubleshooting Methodology for VMware NSX for vSphere](https://youtu.be/ad04CyahmFY)
+
+[SER2905BE - Uncovering ESXTOP](https://youtu.be/XwZZgAAi91A)
+
+[SER2318BE - Upgrading to vSphere 6.5 the VCDX Way]() [NO VIDEO POSTED]
+
+[MGT3343BES - Using Automation to Validate Recoverable Backups with Rubrik](https://youtu.be/X93evC6Pnlg)
+
+[NET2415BE - Utilizing NSX load balancing for scalability, reliability, and security: Overview, best practices, and customer case study]() [NO VIDEO POSTED]
+
+[SER1504BE - vCenter Performance Deep Dive]() [NO VIDEO POSTED]
+
+[SER2980BE - vCenter Server 6.5 Deep Dive and Troubleshooting ](https://youtu.be/Dz4lje4Qk90)
+
+[PBO3309BES - Veeam Availability Suite v10: A Deeper Dive of What???s New](https://youtu.be/kFyxTgse7E0)
+
+[STO2446BE - Virtual Volumes Technical Deep Dive](https://youtu.be/39VKlETQsXU)
+
+[PBO1222BE - VMware Cloud Foundation Architecture Deep Dive](https://youtu.be/kEVlEh32VCQ)
+
+[PBO1677BE - VMware Cloud Foundation: Disaster Recovery Options](https://youtu.be/H3evvU1yIZA)
+
+[PBO2797BE - VMware Cloud Foundation Futures ](https://youtu.be/4NMxlCHF4A4)
+
+[PBO2182BE - VMware Cloud Foundation: Real-World Deployment Experiences from Professional Services Engineering](https://youtu.be/fE5rJzd4EzA)
+
+[PBO1486BE - VMware Cloud Foundation Solution Overview](https://youtu.be/x3bSVwSZqkU)
+
+[STO1890BE - VMware Cloud on AWS: Storage Deep Dive](https://youtu.be/iR1nlIcBvog)
+
+[NET1338BE - VMware Integrated OpenStack and NSX Integration Deep Dive](https://youtu.be/UWK2kOY_-Ec)
+
+[MGT2609BE - VMware Integrated OpenStack: What???s New](https://youtu.be/y0_-Lw_WrX4)
+
+[SER1912BE - VMware Open-Source SDKs: From Getting Started to Web App in One Hour](https://youtu.be/6roiMHvi5ac)
+
+[STO2408BE - VMware Site Recovery Manager: Technical Walkthrough](https://youtu.be/dPrj6C6vS-c)
+
+[PBO1721BE - VMware Validated Design for SDDC Architecture Deep Dive](https://youtu.be/LFkdQr4knBA)
+
+[MGT1568BE - vRealize Business for Cloud: Enabling IT Talk ???Business??? with Line of ???Business???!](https://youtu.be/88GRKc42474)
+
+[STO1926BE - vSAN 6.6: A Day in the Life of an I/O]() [NO VIDEO POSTED]
+
+[STO1178BE - vSAN Day 2 Guidance and Recommendations for Running and Maintaining a vSAN Cluster](https://youtu.be/Q5JzSFLa1gU)
+
+[STO1378BE - vSAN Management Today and in the Future](https://youtu.be/n51HVCz3sGg)
+
+[STO2095BE - vSAN ReadyNode and Build Your Own Hardware Guidance](https://youtu.be/ZqY_qUvW_XA)
+
+[STO2986BE - vSAN Technical Deep Dive](https://youtu.be/jAwDGtZabcQ)
+
+[STO1315BE - vSAN Troubleshooting Deep Dive](https://youtu.be/qFyeHw0SXRc)
+
+[SER1872BE - vSphere 6.5 Host Resources Deep Dive: Part 2](https://youtu.be/3iZ_7IGJnP0)
+
+[SER2936BE - vSphere Certificate Management for Mere Mortals](https://youtu.be/PtLYIQMg5pA)
+
+[SER1411BE - vSphere Clients Roadmap: HTML5 Client, Host Client, and Web Client](https://youtu.be/ec8kD7IOGHM)
+
+[SER2540BE - vSphere HA: Leverage Its Full Potential](https://youtu.be/v79BlyICDSY)
+
+[SER1848BE - vSphere Platform Security Update](https://youtu.be/lJ7dSm-JFdo)
+
+[SER2480BE - vSphere PowerCLI 101: Becoming Your Organization's Superhero](https://youtu.be/ijnsZqKCz7I)
+
+[STO2115BE - vSphere Storage Best Practices](https://youtu.be/4TCuttQbSFE)
+
+[SER1289BE - vSphere Troubleshooting: Tips and Tricks](https://youtu.be/KonK7PuKdtw)
+
+[PBO3367BES - vSphere Virtual Volumes made easy with Pure Storage](https://youtu.be/Eo8DyOgIDCo)
+
+[PBO1064BE - VxRack SDDC Deep Dive: Inside VxRack SDDC Powered by VMware Cloud Foundation](https://youtu.be/HLAqZ0k4P7I)
+
+[SER2779BE - What's New in vCenter](https://youtu.be/hHwty8YLJtg)
+
+[STO3054BE - What???s New in VMware vSAN 6.6](https://youtu.be/36_K-ev_Zxg)
+
+[MGT1217BE - What???s New in vRealize Operations 6.6]() [NO VIDEO POSTED]
+
+[STO2047BE - What's New in vSAN 6.6: Technical Deep Dive](https://youtu.be/WZfCyDfozL4)
+
+[MGT1847BE - What's New with vRealize Automation 7.3](https://youtu.be/9X0vw9oCkgg)
+
+[SER2342BE - What's New with vSphere](https://youtu.be/f4KVHw4L8j8)
+
+[NET1089BE - When Clouds Collide, Lightning Strikes](https://youtu.be/KeVFYZuJJwE)
+
+[STO1052BES - Why Amdocs Chose INFINIDAT???s Future-Defined Storage Solution for their IT Operations ](https://youtu.be/inPbk2v7vI0)
+
+[STO1090BES - Why Hyper-converged IT needs Hyper-converged Backup](https://youtu.be/fahisndb98Y)
+
+[NET3304BES - Why NSX in Hitachi Enterprise Cloud is a game changer](https://youtu.be/V6lFXBEgwVw)
 
 ## Transform Security (14)
 

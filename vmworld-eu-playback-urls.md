@@ -4,7 +4,7 @@ Here is a nice summary list of all VMworld EU 2017 Breakout session with the res
 
 Total Sessions Posted: 287
 
-Total Sessions NOT posted: 30
+Total Sessions NOT posted: 23
 
 ## Application Transformation (23)
 

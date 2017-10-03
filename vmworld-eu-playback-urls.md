@@ -250,7 +250,7 @@ LDT2590BE - Speed is now a Core Competency for Enterprises: VMware IT Framework 
 
 [STO1193BE - A Closer Look at vSAN Networking Design and Configuration Considerations](https://youtu.be/h-Ad4OSzS1Y)
 
-SER1143BE - A Deep Dive into vSphere 6.5 Core Storage Features and Functionality [NO VIDEO POSTED]
+[SER1143BE - A Deep Dive into vSphere 6.5 Core Storage Features and Functionality](https://youtu.be/KJcLMp8n3EM)
 
 [MGT2589BE - ADEO: Creating a Global Enterprise Hybrid Cloud](https://youtu.be/Z6kHPJwy43s)
 

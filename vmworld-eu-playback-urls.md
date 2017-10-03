@@ -4,7 +4,7 @@ Here is a nice summary list of all VMworld EU 2017 Breakout session with the res
 
 Total Sessions Posted: 287
 
-Total Sessions NOT posted: 33
+Total Sessions NOT posted: 30
 
 ## Application Transformation (23)
 
@@ -30,7 +30,7 @@ Total Sessions NOT posted: 33
 
 [VIRT1817BE - Licensing Oracle and SQL Server on vSphere](https://youtu.be/OF_IPHiBmos)
 
-VIRT1309BE - Monster VMs (Database Virtualization) with vSphere 6.5: Doing IT Right [NO VIDEO POSTED]
+[VIRT1309BE - Monster VMs (Database Virtualization) with vSphere 6.5: Doing IT Right](https://youtu.be/TXYcnQ5bxFs)
 
 [CNA2392BE - Navigating Through the Container Ecosystem ](https://youtu.be/OHLkjCDxxKQ)
 
@@ -38,7 +38,7 @@ VIRT1309BE - Monster VMs (Database Virtualization) with vSphere 6.5: Doing IT Ri
 
 [CNA2150BE - Optimizing Critical Banking Workloads Using vSphere Integrated Containers](https://youtu.be/SVvAZ9UJREM)
 
-VIRT1430BE - Performance Tuning and Monitoring for Virtualized Database Servers [NO VIDEO POSTED]
+[VIRT1430BE - Performance Tuning and Monitoring for Virtualized Database Servers](https://youtu.be/shTXjcjfHFk)
 
 [CNA1142BE - Pivotal Cloud Foundry & Developer Ready Infrastructure for the VMware Admin](https://youtu.be/a-psW1D3Uaw)
 
@@ -248,7 +248,7 @@ LDT2590BE - Speed is now a Core Competency for Enterprises: VMware IT Framework 
 
 [PBO1221BE - A Beginner's Guide to the Software-Defined Data Center ](https://youtu.be/-iyCJ1yikbA)
 
-STO1193BE - A Closer Look at vSAN Networking Design and Configuration Considerations [NO VIDEO POSTED]
+[STO1193BE - A Closer Look at vSAN Networking Design and Configuration Considerations](https://youtu.be/h-Ad4OSzS1Y)
 
 SER1143BE - A Deep Dive into vSphere 6.5 Core Storage Features and Functionality [NO VIDEO POSTED]
 
@@ -360,7 +360,7 @@ SER2068BE - How to Upgrade to vSphere 6.5 with Zero Downtime  [NO VIDEO POSTED]
 
 [MGT2875BE - Manage, Govern, and Extend VMware Cloud on AWS with vRealize Automation](https://youtu.be/xUredDQJZrQ)
 
-SER1957BE - Mastering the VMware Tools Lifecycle in Your vSphere Data Center [NO VIDEO POSTED]
+[SER1957BE - Mastering the VMware Tools Lifecycle in Your vSphere Data Center](https://youtu.be/tIc-0vXs3MY)
 
 [SER2283BE - Migrate to Cloud Securely While Optimizing Copy Data: vMotion Has You Covered!	](https://youtu.be/EPCmqKwiwrc)
 
@@ -374,9 +374,9 @@ SER1957BE - Mastering the VMware Tools Lifecycle in Your vSphere Data Center [NO
 
 [SER1729BE - Networking for Virtual Environments: What???s New and What???s Next for VMware vSphere Networking](https://youtu.be/eDY4dp4ST-o)
 
-NET1535BE - NSX Design???Reference Design for SDDC with NSX and vSphere: Part 1 [NO VIDEO POSTED]
+[NET1535BE - NSX Design???Reference Design for SDDC with NSX and vSphere: Part 1](https://youtu.be/4aJb3x6Gjxk)
 
-NET1536BE - NSX Design???Reference Design for SDDC with NSX and vSphere: Part 2 [NO VIDEO POSTED]
+[NET1536BE - NSX Design???Reference Design for SDDC with NSX and vSphere: Part 2](https://youtu.be/s1ZKqTnTv5M)
 
 [NET3283BE - NSX Features Deep Dive](https://youtu.be/1LKuFQJGWf0)
 
@@ -432,11 +432,11 @@ MGT2855BE - Operationalize Your World: Moving Your Operations Closer to Your Arc
 
 [NET3282BE - The NSX Practical Path](https://youtu.be/0FojB5XSGxo)
 
-SER1875BE - The Power Hour: vSphere PowerCLI 10th Birthday Edition [NO VIDEO POSTED]
+[SER1875BE - The Power Hour: vSphere PowerCLI 10th Birthday Edition](https://youtu.be/EYAl8IBcews)
 
 [STO1216BE - The Software-Defined Storage Revolution Is Here: Discover Your Options](https://youtu.be/iRT5cdF8Hbs)
 
-STO1264BE - The Top 10 Things to Know About vSAN [NO VIDEO POSTED]
+[STO1264BE - The Top 10 Things to Know About vSAN](https://youtu.be/ga7df-k3s5Q)
 
 [NET1777BE - Troubleshooting Methodology for VMware NSX for vSphere](https://youtu.be/ad04CyahmFY)
 
@@ -448,7 +448,7 @@ SER2318BE - Upgrading to vSphere 6.5 the VCDX Way [NO VIDEO POSTED]
 
 NET2415BE - Utilizing NSX load balancing for scalability, reliability, and security: Overview, best practices, and customer case study [NO VIDEO POSTED]
 
-SER1504BE - vCenter Performance Deep Dive [NO VIDEO POSTED]
+[SER1504BE - vCenter Performance Deep Dive](https://youtu.be/cIAGxJ4tVbA)
 
 [SER2980BE - vCenter Server 6.5 Deep Dive and Troubleshooting ](https://youtu.be/Dz4lje4Qk90)
 
@@ -480,7 +480,7 @@ SER1504BE - vCenter Performance Deep Dive [NO VIDEO POSTED]
 
 [MGT1568BE - vRealize Business for Cloud: Enabling IT Talk ???Business??? with Line of ???Business???!](https://youtu.be/88GRKc42474)
 
-STO1926BE - vSAN 6.6: A Day in the Life of an I/O [NO VIDEO POSTED]
+[STO1926BE - vSAN 6.6: A Day in the Life of an I/O](https://youtu.be/IYSBiybb3GU)
 
 [STO1178BE - vSAN Day 2 Guidance and Recommendations for Running and Maintaining a vSAN Cluster](https://youtu.be/Q5JzSFLa1gU)
 
